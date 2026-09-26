@@ -1444,7 +1444,7 @@ Use the QEMU executable actually provided by your installed package.
 
 **Raju Prajapat**
 
-Electronics & Communication Engineering Student at Jodhpur Institute of Engineering & Technology, Jodhpur
+Electronics & Communication Engineering Student.
 
 **Connect**
 
